@@ -2,11 +2,11 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"TerminalView"
 	],
 	"installed_packages":
 	[
 		"A File Icon",
+		"AdvancedNewFile",
 		"Alignment",
 		"auto-save",
 		"AutoFileName",
@@ -16,6 +16,7 @@
 		"Babel",
 		"ChangeQuotes",
 		"ChineseLocalizations",
+		"Copy Relative Path",
 		"CSScomb",
 		"DocBlockr",
 		"Dracula Color Scheme",
@@ -33,6 +34,8 @@
 		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
 		"LiveReload",
+		"npm-install",
+		"OpenPath",
 		"Package Control",
 		"React ES6 Snippets",
 		"React IDE",
@@ -44,6 +47,7 @@
 		"SublimeLinter",
 		"SublimeLinter-jsxhint",
 		"SyntaxHighlightTools",
+		"TerminalView",
 		"TomcatMavenHotReload"
 	]
 }
