@@ -2,12 +2,16 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"TerminalView"
 	],
 	"installed_packages":
 	[
 		"A File Icon",
 		"Alignment",
+		"auto-save",
 		"AutoFileName",
+		"AutoFoldCode",
+		"AutoImport",
 		"Autoprefixer",
 		"Babel",
 		"ChangeQuotes",
@@ -16,11 +20,19 @@
 		"DocBlockr",
 		"Dracula Color Scheme",
 		"Emmet",
+		"Git",
 		"GitOpenChangedFiles",
+		"GitStatus",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
+		"Import Cost",
+		"ImportHelper",
+		"ImportJS",
+		"JavaScript Completions",
+		"JavaScript Enhancements",
 		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
+		"LiveReload",
 		"Package Control",
 		"React ES6 Snippets",
 		"React IDE",
