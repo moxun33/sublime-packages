@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Autoprefixer",
+		"Babel",
+		"ChangeQuotes",
+		"ChineseLocalizations",
+		"CSScomb",
+		"DocBlockr",
+		"Dracula Color Scheme",
+		"Emmet",
+		"GitOpenChangedFiles",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"Package Control",
+		"React ES6 Snippets",
+		"React IDE",
+		"React Templates",
+		"ReactJS",
+		"SideBarEnhancements",
+		"Sublimall",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jsxhint",
+		"SyntaxHighlightTools",
+		"TomcatMavenHotReload"
+	]
+}
